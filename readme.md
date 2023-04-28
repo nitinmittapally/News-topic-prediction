@@ -11,3 +11,5 @@ features. Used vectorizer to remove rare words and most common words and reduced
 Built Logit, Naive Bayes, and SVM models to predict the topic. 
 
 This is the updated codebase
+
+This is the second update
