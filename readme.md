@@ -9,3 +9,5 @@ Processed text data to normalize it. Removed stopwords, made everything to lower
 Converted these word into TF-IDF vectors. This resulted in total of 30K features. Since there may be words that were used rarely we can ignore them and decrease the number of 
 features. Used vectorizer to remove rare words and most common words and reduced the number of features to 5k. 
 Built Logit, Naive Bayes, and SVM models to predict the topic. 
+
+This is the updated codebase
